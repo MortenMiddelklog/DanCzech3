@@ -191,6 +191,11 @@ nav {
     padding: 100px 5% 2% 5%;
 }
 
+.gallery-main {
+  background-color: #2b2b2b;
+  padding-top: 100px;
+}
+
 .intro, .news, .kennel, .about {
     margin: 30px auto;
 }
